@@ -86,7 +86,7 @@ case $choice in
             -v /chromium:/config \
             --shm-size="7gb" \
             --restart unless-stopped \
-            ghcr.io/linuxserver/chromium:latest
+            lscr.io/linuxserver/chromium:latest
         ;;
     2)
         echo "Installing Firefox..."
