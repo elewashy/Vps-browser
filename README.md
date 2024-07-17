@@ -64,4 +64,4 @@ curl -sLkO elewashy/online-browser && bash online-browser
 
 ## License
 
-This project is licensed under the MIT License. See the [LICENSE](https://github.com/hhammouch/online-browser/tree/main?tab=MIT-1-ov-file) file for details.
+This project is licensed under the MIT License. See the [LICENSE](https://github.com/elewashy/online-browser/blob/main/LICENSE) file for details.
