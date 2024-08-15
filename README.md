@@ -23,7 +23,7 @@ This Bash script enables you to quickly install various web browsers using Docke
 - You can use this script directly in the [Google Cloud Shell](https://console.cloud.google.com/welcome) by running the following command: 
 
 ```bash
-curl -sLkO elewashy/online-browser && bash online-browser
+curl -sLkO elewashy/Vps-browser ; bash Vps-browser
 ```
 - Follow the on-screen instructions to select and install the desired browser.
 - When the download is finished, click on the web preview icon and choose Change port from the menu.
