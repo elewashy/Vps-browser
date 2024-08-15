@@ -1,4 +1,4 @@
-# Online Browser Installer
+# Vps Browser Installer
 
 This Bash script enables you to quickly install various web browsers using Docker containers. It provides a simple menu interface for selecting the browser you want to install.
 
@@ -35,7 +35,7 @@ curl -sLkO https://raw.githubusercontent.com/elewashy/vps-browser/main/vps-brows
 1. Clone this repository to your local machine:
 
     ```bash
-    git clone https://github.com/elewashy/online-browser.git
+    git clone https://github.com/elewashy/vps-browser.git
     ```
 
 2. Navigate to the cloned directory:
