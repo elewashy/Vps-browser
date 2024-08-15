@@ -12,10 +12,6 @@ This Bash script enables you to quickly install various web browsers using Docke
 
 ![Vps Browser Installer](https://raw.githubusercontent.com/elewashy/vps-browser/main/Preview.jpg)
 
-## Video
-
-
-
 ## Usage
 
 ### Running in Google Cloud Shell
