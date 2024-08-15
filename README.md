@@ -10,7 +10,7 @@ This Bash script enables you to quickly install various web browsers using Docke
 
 ## Preview
 
-![Online Browser Installer]([https://i.imgur.com/IotR4oS.png](https://github.com/elewashy/vps-browser/blob/main/Preview.jpg))
+![Vps Browser Installer](https://raw.githubusercontent.com/elewashy/vps-browser/main/Preview.jpg)
 
 ## Video
 
